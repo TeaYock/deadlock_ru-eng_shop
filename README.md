@@ -11,11 +11,11 @@
 Если имеешь интерпритатор Python, то можешь запустить .py файлом. В таком случае, скачиваем его, прокидываем в ту же папку что и в способе с .exe файлом. Заходим в терминал (Win+R, прописываем cmd), заходим по тому же пути "cd {путь к папке}" и прописываем "python store_translator.py", после чего заходим в игру. Всё готово!
 
 ## ВЫГЛЯДИТ ВСЁ ВОТ ТАК:
-### Магазин с двумя версиями названий предметов
+## Магазин с двумя версиями названий предметов
 ![Image alt](https://github.com/TeaYock/deadlock_ru-eng_shop/blob/main/images_for_readme/weapons_shop.png)
-### Окно одного предмета
+## Окно одного предмета
 ![Image alt](https://github.com/TeaYock/deadlock_ru-eng_shop/blob/main/images_for_readme/one_item.png)
-### Предмет при наведении на него в слоте
+## Предмет при наведении на него в слоте
 ![Image alt](https://github.com/TeaYock/deadlock_ru-eng_shop/blob/main/images_for_readme/item_slot.png)
 
 # УДАЧИ ИГРУНЧИКАМ В КАТКАХ!
