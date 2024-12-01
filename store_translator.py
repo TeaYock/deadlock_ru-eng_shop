@@ -158,4 +158,5 @@ for line in lines:
 with open(file_path, 'w', encoding='utf-8') as file:
     file.writelines(updated_lines)
 
+# Вывод в терминал о выполнении работы для тех, кто хочет запускать через .py файл
 print("finish")
