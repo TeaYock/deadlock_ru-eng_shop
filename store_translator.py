@@ -6,7 +6,7 @@ def main():
     # Путь к файлу русской локализации в магазине
     # Можно открыть через "ПКМ по игре в библиотеке" >> "Управление" >> "Просмотреть локальные файлы"
     # Далее по пути "Deadlock\game\citadel\resource\localization\citadel_gc"
-    file_path = 'citadel_gc_russian.txt'
+    file_path = 'game\\citadel\\resource\\localization\\citadel_gc\\citadel_gc_russian.txt'
 
     # Читаем содержимое файла
     with open(file_path, 'r', encoding='utf-8-sig') as file:
